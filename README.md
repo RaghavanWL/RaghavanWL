@@ -7,7 +7,7 @@
 - 🔭 I'm interested on software development,DS, AI, ML, DL .
 - 🌱 I’m currently learning Python and C++ .
 - 👯 I’m looking to collaborate with other people who are interested on Programming !
-- 🥅 2020 Goals: Learn programming deep and with passion .
+- 🥅 2020 Goals: Learn Python deep and with passion .
 - ⚡ Hobby - Play online games just to relax
 
 
